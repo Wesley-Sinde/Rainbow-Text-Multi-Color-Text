@@ -1,5 +1,7 @@
 # Rainbow-Text-Multi-Color-Text
 Rainbow Text Multi Color Text
+![Image](Screenshot.png)
+
 
 ```html
 <style>
